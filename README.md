@@ -27,8 +27,8 @@ This project focuses on analyzing a music playlist database using SQL. The analy
 
 ---
 Schema- Music Store Database  
-![MusicDatabaseSchema](<img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/ce31e7dd-2e12-4b8e-a73b-4b17539d033f" />
-)
+<img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/c0a77082-cdea-4544-abbd-c703210dd744" />
+
 
 ## 🗂️ Dataset Details  
 
